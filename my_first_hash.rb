@@ -1,6 +1,6 @@
 def my_hash
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
-  travels = {"year_2018" => "Iceland", "Norway", "year_2016" => "Colorado", "Virginia", "New york", "New Jersey"}
+  travels = {"year_2018" =>  "Norway", "year_2016" => "Colorado"}
   puts travels
 end
 
